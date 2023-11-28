@@ -226,7 +226,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       backgroundImage: MemoryImage(bytes),
                     ),
                     accountName: Text(
-                      'Welcome Muneeb'
+                      'Welcome '
                       '$firstName_',
                       style: const TextStyle(
                           fontSize: 16.0, fontFamily: "Brand Bold"),
