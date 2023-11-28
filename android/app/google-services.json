@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235499533144",
+    "project_id": "flutterpushnotitwo",
+    "storage_bucket": "flutterpushnotitwo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235499533144:android:456205f6a197857323ab2d",
+        "android_client_info": {
+          "package_name": "com.pushtwo.pushnoti_two"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235499533144-kg50a56c925g6f6s07l8esejhqbvoa1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh3751HxZYy6uWfVK9_TnQfYzg68xqu_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235499533144-kg50a56c925g6f6s07l8esejhqbvoa1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
